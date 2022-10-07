@@ -1,0 +1,30 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+
+
+
+body{
+    background-color: blueviolet;
+}
+
+
+.imgBox{
+    background-image: url('img/site.png');
+    /* position: absolute; */
+    top: 7px;
+    left: 5px;
+    height: 145px;
+    width: 145px;
+    cursor: pointer;
+}
+.whiteBox{
+    height: 155px;
+    width: 155px;
+    margin: 10px;
+    background-color: antiquewhite;
+    display: inline-block;
+    border: 3px blue solid;
+}
