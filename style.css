@@ -16,6 +16,7 @@ body{
     /* position: absolute; */
     top: 7px;
     left: 5px;
+    margin: 5px;
     height: 145px;
     width: 145px;
     cursor: pointer;
